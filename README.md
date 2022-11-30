@@ -9,7 +9,7 @@ errors in the design, parts that dont fit and so on. if you find any mistakes pl
 If you start to build one please consider contributing to this project by writing or making corrections to the instructions, 
 adding your files for design changes and so on. 
 
-Build instructions will eventually be found [here](https://pyflightcoach.github.io/PyFlightCoach/).
+Build instructions will eventually be found [here](https://thomasdavid0.github.io/Placebo_F3A/).
 
 The design was made in Fusion 360. At this stage I will not share the original Fusion 360 project publicly as it
 would be a bit too easy for people to break. I'll try to add a 3D model of the assembly to help identify the parts.
