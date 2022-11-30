@@ -1,4 +1,4 @@
-# Placebo_F3A
+# Placebo, 2m F3A Plane
 
 This repo will contain all the cutting files and information on building the Placebo F3A plane. At the moment it just
 contains the cutting files and it is hoped the instructions will come from people who decide to build it. 
