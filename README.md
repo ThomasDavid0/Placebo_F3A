@@ -11,9 +11,11 @@ adding your files for design changes and so on.
 
 Build instructions will eventually be found [here](https://thomasdavid0.github.io/Placebo_F3A/).
 
-The design was made in Fusion 360. At this stage I will not share the original Fusion 360 project publicly as it
-would be a bit too easy for people to break. I'll try to add a 3D model of the assembly to help identify the parts.
-If I find a way to publicly share the original design without write access I will do that.
+The design was made in Fusion 360. To access the 3D models, open these links:
+[Fuselage](https://a360.co/3P29itn)
+[Wing](https://a360.co/3VUTriw)
+[Tail](https://a360.co/3VQwVaH)
+
 
 ![alt text](https://github.com/thomasdavid0/Placebo_F3A/blob/main/CAD_preview.PNG?raw=true)
 
