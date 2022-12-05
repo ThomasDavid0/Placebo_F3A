@@ -4,8 +4,8 @@ This repo contains all the cutting files and information required to build the P
 instructions are not complete, these will be populated over time by people who decide to build it. 
 
 Note that this plane has not yet flown, before you start building consider the fact that it could be rubbish. The design
-is based on my old design, the Cold Draft, which is pretty good. Changes from that are incremental. There may be 
-errors in the design, parts that dont fit and so on. if you find any mistakes please submit an issue and I'll try to fix them.
+is a development of my old design, the Cold Draft, which is pretty good. Changes from that are incremental. There may be 
+errors in the design, parts that dont fit and so on. If you find any mistakes please submit an issue and I'll try to fix them.
 If you start to build one please consider contributing to this project by writing or making corrections to the instructions, 
 adding your files for design changes and so on. 
 
