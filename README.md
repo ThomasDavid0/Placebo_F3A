@@ -12,9 +12,9 @@ adding your files for design changes and so on.
 Build instructions will eventually be found [here](https://thomasdavid0.github.io/Placebo_F3A/).
 
 The design was made in Fusion 360. To access the 3D models, open these links:
-[Fuselage](https://a360.co/3P29itn)
-[Wing](https://a360.co/3VUTriw)
-[Tail](https://a360.co/3VQwVaH)
+[Fuselage](https://a360.co/3CvvDKZ)
+[Wing](https://a360.co/3GmNVix)
+[Tail](https://a360.co/3Gsp252)
 
 
 ![alt text](https://github.com/thomasdavid0/Placebo_F3A/blob/main/CAD_preview.PNG?raw=true)
