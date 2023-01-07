@@ -19,7 +19,7 @@ The design was made in Fusion 360. To access the 3D models, open these links:
 
 ![alt text](https://github.com/thomasdavid0/Placebo_F3A/blob/main/CAD_preview.PNG?raw=true)
 
-![alt text](https://github.com/thomasdavid0/Placebo_F3A/blob/main/build.jpg?raw=true)
+![alt text](https://github.com/thomasdavid0/Placebo_F3A/blob/main/build_photos/finished_4.jpg?raw=true)
 
 
 
