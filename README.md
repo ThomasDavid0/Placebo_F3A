@@ -1,12 +1,10 @@
 # Placebo, 2m F3A Plane
 
-This repo contains all the cutting files and information required to build the Placebo F3A plane. At this stage the
-instructions are not complete, these will be populated over time by people who decide to build it. 
-
-The Placebo is a development of my old design, the Cold Draft, which is pretty good. Changes from that are incremental. The first prototype
-has just been test flown and first impressions are encouraging. There may be errors in the design, parts that dont fit and so on.
-If you find any mistakes please submit an issue and I'll try to fix them. If you start to build one please consider contributing to this
-project by writing or making corrections to the instructions, adding your files for design changes and other helpful things. 
+This repo contains all the cutting files and information required to build the Placebo F3A plane. The Placebo is a development of my old design, 
+the Cold Draft, which is pretty good. Changes from that are incremental. The first prototype has just been test flown and first impressions
+are encouraging. There may be errors in the design, parts that dont fit and so on. If you find any mistakes please submit an issue and
+I'll try to fix them. If you start to build one please consider contributing to this project by writing or making corrections to the instructions, 
+adding your files for design changes and other helpful things. 
 
 Build instructions will eventually be found [here](https://thomasdavid0.github.io/Placebo_F3A/).
 
