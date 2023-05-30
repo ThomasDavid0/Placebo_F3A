@@ -1,0 +1,2 @@
+CTP : 50 mm/s - 90 % (Trial with 2 mm )
+Balsa 2,5 mm : 50 mm/s - 20 % (May be increased)
